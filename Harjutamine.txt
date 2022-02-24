@@ -1,2 +1,2 @@
 GitHub on Ameerika firma, mis pakub veebimajutusteenust tarkvaraarenduseks. GitHubi tasuta teenust kasutatakse tihtipeale avatud lähtekoodiga tarkvara arenduseks.
-Mina saan githubi kasutada edasipidi koolitööde jaoks. Lisaks on võimalus isiklikke projekte arendada githubi kasutades.
+
